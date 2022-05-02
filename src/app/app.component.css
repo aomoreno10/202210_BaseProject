@@ -1,3 +1,17 @@
 * [lang^=en] {
   color: green;
 }
+
+
+.header {
+  margin: 20px;
+}
+
+.header img {
+  width: 100%;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+}
